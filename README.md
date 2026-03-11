@@ -1,13 +1,29 @@
-# My Certifications
+# Certificazioni Professionali
 
-## “IT ESSENTIALS” 
-- Cisco Networking Accademy | Napoli (NA) - 2017
+Questa repository contiene una raccolta delle mie certificazioni e dei percorsi formativi nel settore dell'Information Technology, con particolare attenzione al networking e allo sviluppo software.
 
-## “CCNA ROUTING AND SWITCHING”
-- Cisco Networking Accademy | Napoli (NA) - 2017
+Le certificazioni presenti rappresentano il mio impegno nella formazione continua e nello sviluppo delle competenze tecniche nel campo IT.
 
-## Corso Tecnico della programmazione e sviluppo di programmi informatici (EQF5)
-- Skill Factory | Napoli (NA) – 2025
+---
 
-# Corso Programmazione Java Spring
-Skill Factory | Napoli (NA) - 2026
+## Certificazioni
+
+### 🌍 Hardware e Networking
+
+**IT Essentials**  
+*Cisco Networking Academy | Napoli (NA)*
+
+**CCNA Routing and Switching**  
+*Cisco Networking Academy | Napoli (NA)*
+
+---
+
+### 🧑‍💻 Sviluppo Software
+
+**Tecnico della Programmazione e Sviluppo di Programmi Informatici (EQF 5)**  
+*Skill Factory | Napoli (NA)*
+
+**Programmazione Java Spring (Formatemp)**  
+*Skill Factory | Napoli (NA)*
+
+---
