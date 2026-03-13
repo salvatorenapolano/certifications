@@ -1,7 +1,7 @@
 # 📜 Certificazioni Professionali
 
 Questa repository raccoglie le certificazioni ottenute durante il mio percorso di formazione nel settore IT e sviluppo software.  
-Ogni certificato è mostrato con **anteprima** e bottone per visualizzazre il PDF originale.
+Ogni certificato è mostrato con **anteprima** e bottone per visualizzare il PDF originale.
 
 ---
 
