@@ -4,6 +4,12 @@ Questa repository raccoglie le certificazioni ottenute durante il mio percorso d
 Ogni certificato è mostrato con **anteprima** e bottone per visualizzare il PDF originale.
 
 ---
+### 📒 Istruzione
+- **Diploma Perito Informatico** // 📍: *Istituto Tecnico Industriale “Galileo Ferraris” | Napoli (NA)*    
+![Diploma Perito Informatico](/badge/diploma-badge.png)   
+[![📄 APRI PDF](https://img.shields.io/badge/PDF-red?style=for-the-badge)](education/diploma.pdf)
+
+---
 
 ### 🌍 Hardware e Networking
  
