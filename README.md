@@ -1,11 +1,12 @@
 # 📜 Certificazioni Professionali
 
 Questa repository raccoglie le certificazioni ottenute durante il mio percorso di formazione nel settore IT e sviluppo software.  
-Ogni certificato è mostrato con **anteprima** e bottone per visualizzare il PDF originale.
+Ogni certificato è possibile visualizzarlo cliccando su: **PDF**.
 
 ---
 ### 📒 Istruzione
 - **Diploma Perito Informatico** // 📍: *Istituto Tecnico Industriale “Galileo Ferraris” | Napoli (NA)*    
+**Voto:** *80/100*   
 ![Diploma Perito Informatico](/badge/diploma-itis-badge.png)   
 [![📄 APRI PDF](https://img.shields.io/badge/PDF-red?style=for-the-badge)](education/diploma.pdf)
 
