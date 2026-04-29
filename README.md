@@ -14,11 +14,11 @@ Ogni certificato è possibile visualizzarlo cliccando su: **PDF**.
 
 ### 🌍 Hardware e Networking
  
-- **IT ESSENTIALS** | 📍: *Cisco Networking Academy | Napoli (NA)* | rilasciato da: **CISCO**
+- **IT ESSENTIALS** | 📍: *Cisco Networking Academy* | rilasciato da: **CISCO**    
 ![IT Essentials](/badge/it-essentials-badge.png)   
 [![📄 APRI PDF](https://img.shields.io/badge/PDF-red?style=for-the-badge)](networking/cisco-it-essentials.pdf)
 
-- **CCNA Routing and Switching** | 📍: *Cisco Networking Academy | Napoli (NA)* | rilasciato da: **CISCO** 
+- **CCNA Routing and Switching** | 📍: *Cisco Networking Academy* | rilasciato da: **CISCO**   
 *![CCNA Routing and Switching](badge/ccna-badge.png)*  
 [![📄 APRI PDF](https://img.shields.io/badge/PDF-red?style=for-the-badge)](networking/cisco-ccna-routing-and-switching.pdf)
 
@@ -26,11 +26,11 @@ Ogni certificato è possibile visualizzarlo cliccando su: **PDF**.
 
 ### 🧑‍💻 Sviluppo Software
 
-- **Tecnico della Programmazione e Sviluppo di Programmi Informatici (EQF 5)**  | 📍: *Skill Factory | Napoli (NA)*  | rilasciato da: **REGIONE CAMPANIA**
+- **Tecnico della Programmazione (EQF 5)**  | 📍: *Skill Factory, Napoli (NA)*  | rilasciato da: **REGIONE CAMPANIA**
 ![Tecnico Programmazione EQF5](badge/eqf5-badge.png)  
 [![📄 APRI PDF](https://img.shields.io/badge/PDF-red?style=for-the-badge)](sviluppo-software/tecnico-della-programmazione-eqf5.pdf)
 
-- **Programmazione Java Spring**  | 📍: *Skill Factory | Napoli (NA)* | rilasciato da: **FORMATEMP** 
+- **Programmazione Java Spring**  | 📍: *Skill Factory, Napoli (NA)* | rilasciato da: **FORMATEMP**    
 ![Programmazione Java Spring](badge/spring-badge.png)  
 [![📄 APRI PDF](https://img.shields.io/badge/PDF-red?style=for-the-badge)](sviluppo-software/java-spring.pdf)
 
